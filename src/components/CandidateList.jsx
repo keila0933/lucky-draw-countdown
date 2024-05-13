@@ -67,7 +67,7 @@ const CandidateList = () => {
       {candidates.length ? (
         <List
           className='List'
-          height={innerHeight - 368}
+          height={552}
           width="100%"
           itemCount={candidates.length}
           itemSize={80}
